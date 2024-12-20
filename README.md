@@ -78,7 +78,7 @@ Metastate Hub dApp aims to revolutionize the digital real estate market by lever
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/metastate-hub-dapp.git
+   git clone https://github.com/gorkemsandikci/Metastate-Hub-dApp.git
    ```
 
 2. Navigate to the project directory:
