@@ -32,9 +32,9 @@ Metastate Hub dApp is a blockchain-based decentralized application built using t
 ---
 
 ## **Screenshots:**
-- Dashboard Overview: <br><img src="/screenshots/001-Andromeda.png" width="70%" /> <br><img src="/screenshots/002-Andromeda.png" width="70%" />
-- Auction Page: <br><img src="/screenshots/003-Andromeda.png" width="70%" /> <br><img src="/screenshots/004-Andromeda.png" width="70%" />
-- Crowdfund Sale Interface: <br><img src="/screenshots/005-Andromeda.png" width="70%" />
+- Dashboard Overview: <br><img src="/screenshots/001-Andromeda.png"/> <br><img src="/screenshots/002-Andromeda.png"/>
+- Auction Page: <br><img src="/screenshots/003-Andromeda.png"/> <br><img src="/screenshots/004-Andromeda.png"/>
+- Crowdfund Sale Interface: <br><img src="/screenshots/005-Andromeda.png"/>
 
 ---
 
